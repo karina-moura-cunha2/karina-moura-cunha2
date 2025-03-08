@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Karina Moura.  
 
-🎯 **Analista de Dados | Inovação | Planejamento Estratégico**  
+🎯 **Consultora de Inovação | Analista de Dados | Agronegócio**  
 
-Sou uma profissional com experiência em **análise de dados, inovação e planejamento estratégico**, aplicando **Power BI, Power Query, ETL, DAX, SQL, Python**, além de **metodologias ágeis** e **inteligência de mercado** para otimizar processos e apoiar a tomada de decisão.
+Sou uma profissional com experiência na **análise e otimização de processos produtivos**, focando na identificação de oportunidades de melhoria, **aumento da produtividade e redução de desperdícios**. No Sebrae, atuei auxiliando mais de **50 empresários** a melhorar sua gestão e inovação, aplicando metodologias para otimizar processos e aumentar a eficiência operacional. Além disso, possuo experiência com análise de dados produtivos no setor agrícola, monitorando estimativas de colheita, produtividade por lote e desempenho operacional, utilizando ferramentas como **Excel e Power BI para desenvolver dashboards e auxiliar na tomada de decisão estratégica**.
 
 ## 🚀 Sobre mim  
 
